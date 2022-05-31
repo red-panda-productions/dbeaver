@@ -24,13 +24,13 @@ Supports any database which has JDBC driver (which basically means - ANY databas
 ## Download
 
 You can download prebuilt binaries from <a href="https://github.com/red-panda-productions/dbeaver/releases">GitHub releases</a>.  
-You can also download from this github page.  
+You can download the source code from this github page.  
 
 ## Running
 
 Just run an installer (or unzip an archive) and run `dbeaver`.  
 
-Note: DBeaver needs Java to run. <a href="https://adoptopenjdk.net/" target="_blank">Open JDK 11</a> is advised to be installed seperatly from the project.
+Note: DBeaver needs Java to run. <a href="https://adoptopenjdk.net/" target="_blank">Open JDK 11</a> is advised to be installed separately from the project.
 You can change default JDK version by replacing directory `jre` in dbeaver installation folder.
 
 ## Documentation
@@ -60,5 +60,5 @@ Binaries are in `product/community/target/products`
 
 ## Notes
 
-This is not the official DBeaver version, If you would like to improve DBeaver version without the current code changes (see also <a href="https://github.com/red-panda-productions/dbeaver/releases">Release Notes</a>) We would suggest visiting the official <a href ="https://github.com/dbeaver/dbeaver/">DBeaver github</a>.
+This is not the official DBeaver version, If you would like to improve DBeaver version without the current code changes (see also <a href="https://github.com/red-panda-productions/dbeaver/releases">Release Notes</a>), please visit the official <a href ="https://github.com/dbeaver/dbeaver/">DBeaver GitHub repository</a>.
 
